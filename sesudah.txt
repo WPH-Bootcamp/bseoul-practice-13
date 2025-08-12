@@ -1,0 +1,18 @@
+SESUDAH di konversi:
+
+{
+  lokasi: {
+    adm1: '36',
+    adm2: '36.03',
+    adm3: '36.03.28',
+    adm4: '36.03.28.1002',
+    provinsi: 'Banten',
+    kotkab: 'Tangerang',
+    kecamatan: 'Kelapa Dua',
+    desa: 'Bencongan',
+    lon: 106.6026471051,
+    lat: -6.2156239764,
+    timezone: 'Asia/Jakarta'
+  },
+  data: [ { lokasi: [Object], cuaca: [Array] } ]
+}
